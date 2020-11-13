@@ -35,5 +35,31 @@ body{
     color:#008ed6 ;
     background-color: white;
     padding: 3px;
-    border-radius: 3px;;
+    border-radius: 3px;
+}
+
+#explore-section .fas,
+#share-section .fas{
+    background: #333;
+    color: #fff;
+    padding: 3px;
+    border-radius: 3px;
+}
+
+#explore-section #phone{
+    border-radius: 5px;
+}
+
+#create-section #desk{
+    border-radius: 5px;
+}
+#create-section .fas{
+    background:#fff;
+    color: #008ed6;
+    padding: 3px;
+    border-radius: 3px;
+}
+
+#share-section #friends{
+    border-radius: 5px;
 }
